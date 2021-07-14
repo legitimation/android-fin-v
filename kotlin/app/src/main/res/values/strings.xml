@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Devel-up</string>
+    <string name="baseUrl">http://172.10.18.137</string>
+    <string name="kakao_app_key">0fb90095ab2bcd323decd3974882152d</string>
+</resources>
